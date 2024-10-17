@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/muzamil/static/css/main.e6c13ad2.css",
+    "main.js": "/muzamil/static/js/main.84718e2d.js",
+    "static/js/453.f200ba9b.chunk.js": "/muzamil/static/js/453.f200ba9b.chunk.js",
+    "index.html": "/muzamil/index.html",
+    "main.e6c13ad2.css.map": "/muzamil/static/css/main.e6c13ad2.css.map",
+    "main.84718e2d.js.map": "/muzamil/static/js/main.84718e2d.js.map",
+    "453.f200ba9b.chunk.js.map": "/muzamil/static/js/453.f200ba9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.84718e2d.js"
+  ]
+}
